@@ -3,7 +3,7 @@ body {
 }
 .jumbotron {
   padding-top: 6rem;
-  background-color: #acc79775;
+  background-color: hsla(94, 30%, 69%, 0.459);
 }
 
 #project {
